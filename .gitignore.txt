@@ -1,0 +1,2 @@
+venv_szeged/
+DataSet 2 - SzegedHungaryWeatherHistory.csv
