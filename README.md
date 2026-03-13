@@ -1,7 +1,7 @@
 # Advanced Weather Temperature Prediction
 
 ## Project Overview
-This project is an evolution of my initial data science work. While my first project used only humidity to predict temperature, this analysis utilizes **Multiple Linear Regression** to incorporate several weather variables, significantly increasing the model's predictive power and accuracy.
+This project is an evolution of my initial data science work. While [my first project](https://github.com/Anurag146/Basic-Temp-Predictor.git) used only humidity to predict temperature, this analysis utilizes **Multiple Linear Regression** to incorporate several weather variables, significantly increasing the model's predictive power and accuracy.
 
 ## Dataset
 The dataset contains 10 years of hourly weather data from Szeged, Hungary (2006–2016).
